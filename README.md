@@ -30,13 +30,32 @@ I am a passionate full-stack developer with expertise in building dynamic and sc
 
 ## 🛠 Social Links
 - [GitHub](https://github.com/raselm282)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourprofile)  
-## 📊 GitHub Stats
+- [Facebook](https://www.facebook.com/share/18pGK5wFpC/)  
+<!-- - [LinkedIn](https://linkedin.com/in/yourprofile)  -->
+
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raselm282&theme=dark" alt="GitHub Streak" />
 </p>
-<!--rrrr
+
+## 🏆 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselm282&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raselm282&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<!--## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raselm282&theme=dark" alt="GitHub Streak" />
+</p>
+rrrr
 ## Hi there 👋
 
 
