@@ -2,7 +2,6 @@
   <p align="center">
   <img src="https://i.ibb.co.com/d4LnB78K/Banner-github.jpg" alt="I am a Full Stack Developer" height="400" width="100%">
 </p>
-
 </div>
 
 
