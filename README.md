@@ -34,7 +34,7 @@ I am a passionate full-stack developer with expertise in building dynamic and sc
 
 ## 🛠 Social Links
 - [GitHub](https://github.com/raselm282)  
-- [Facebook](https://www.facebook.com/share/18pGK5wFpC/)  
+- [Facebook](https://www.facebook.com/raselm282)  
 <!-- - [LinkedIn](https://linkedin.com/in/yourprofile)  -->
 
 ## 🔥 GitHub Streak
